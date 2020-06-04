@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { 
+	font-family: 'Comic Neue', cursive;
+}
+.icon-top {
+	background: #a9ff08;
+	}
+.icon-top a {
+			color: #000000;
+			font-size: 25px;
+			transition: color 1s ease;
+			}
+.icon-top a:hover {
+					color: #242424;
+					}
+.navbar {
+		background: #242424!important;
+		padding: 10px 20px!important;
+		transition: padding 2s ease;
+		}
+.navbar-background {
+					padding: 2px 20px!important;
+					}
+.navbar-brand {
+				color:  #a9ff08;
+				border: 3px solid #a9ff08;
+				font-size: 30px;
+				transition: all 2s;
+			}
+.navbar-brand:hover {
+					background: #a9ff08;
+					color: #242424;
+}
+.navbar-toggler {
+				border: 3px solid #a9ff08;
+				padding: 3px;
+	}
