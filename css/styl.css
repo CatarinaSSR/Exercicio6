@@ -139,20 +139,20 @@ body {
 		background: #fffffa;
 		border: 3px solid #A7D3C1;
 }
-.skills-icon {
+.CT-icon {
 		background: #242424;
 		clip-path: polygon(0 0, 50% 0, 100% 100%, 0 100%);
 		transition: all 1s ease;
 }
-.skills-icon:hover {
+.CT-icon:hover {
 		background: #A7D3C1;
 }
-.skills-icon span {
+.CT-icon span {
 		font-size: 100px;
 		color: #909090;
 		transition: all 1s ease-in-out;
 }
-.skills-icon:hover span {
+.CT-icon:hover span {
 		color: #f1fffa;
 }
 .icon {
