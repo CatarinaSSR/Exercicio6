@@ -166,7 +166,9 @@ body {
    
 }
 .icon a {
-			color: #A7D3C1;
+	color:#A7D3C1;		
+	color: #A7D3C1;
+	font-size:50px;
    			font-size: 50px;
 			transition: color 1s ease;
 
