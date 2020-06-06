@@ -97,10 +97,10 @@ body {
         background: linear-gradient(to right, rgba(43, 137, 104, 0.9),rgba(167, 211, 193, 0.5)), url(../imagens/07.jpg) center/cover fixed no-repeat;
 }
 .item-2 {
-        background: linear-gradient(to right, rgba(43, 137, 104, 0.9),rgba(167, 211, 193, 0.5)), url(../imagens/char-06.png) center/cover fixed no-repeat;
+        background: linear-gradient(to right, rgba(43, 137, 104, 0.9),rgba(167, 211, 193, 0.5)), url(../imagens/07.jpg) center/cover fixed no-repeat;
 }
 .item-3 {
-        background: linear-gradient(to right, rgba(43, 137, 104, 0.9),rgba(167, 211, 193, 0.5)), url(../imagens/1.jpg) center/cover fixed no-repeat;
+         background: linear-gradient(to right, rgba(43, 137, 104, 0.9),rgba(167, 211, 193, 0.5)), url(../imagens/07.jpg) center/cover fixed no-repeat;
 }
 .slide-btn {
 		color: #f1fffa;
