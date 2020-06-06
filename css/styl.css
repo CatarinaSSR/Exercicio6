@@ -140,7 +140,7 @@ body {
 		border: 3px solid #A7D3C1;
 }
 .skills-icon {
-		background: #242424;
+		background: #2B8968;
 		clip-path: polygon(0 0, 50% 0, 100% 100%, 0 100%);
 		transition: all 1s ease;
 }
@@ -149,7 +149,7 @@ body {
 }
 .skills-icon span {
 		font-size: 100px;
-		color: #909090;
+		color: #FFFFFF;
 		transition: all 1s ease-in-out;
 }
 .skills-icon:hover span {
@@ -166,8 +166,8 @@ body {
    
 }
 .icon a {
-			color: #2B8968;
-   			font-size: 30px;
+			color: #A7D3C1;
+   			font-size: 50px;
 			transition: color 1s ease;
 			}
 #about .title a {
